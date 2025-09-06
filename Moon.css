@@ -25,7 +25,7 @@
   font-size: 1rem;
   font-weight: bold;
   font-family: "inter", sans-serif;
-     margin-left: 15px;
+   margin-left: 15px;
 }
 
 ul {
@@ -103,7 +103,7 @@ p {
 
 @media (min-width: 0px) and (max-width: 650px) {
   #maindiv {
-    width: 100%;
+    width: 100vw;
     height: 70vh;
 
     background-image: url("Mobile.jpg");
@@ -120,6 +120,7 @@ p {
     font-size: 0.7rem;
     font-weight: bold;
     font-family: "inter", sans-serif;
+    margin-left: 15px;
   }
 
 #Navbar {
@@ -138,4 +139,3 @@ h1 {
   font-weight: 700;
 }
 }
-
