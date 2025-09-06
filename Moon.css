@@ -25,6 +25,7 @@
   font-size: 1rem;
   font-weight: bold;
   font-family: "inter", sans-serif;
+     margin-left: 15px;
 }
 
 ul {
@@ -137,3 +138,4 @@ h1 {
   font-weight: 700;
 }
 }
+
