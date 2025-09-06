@@ -4,6 +4,7 @@
   box-sizing: border-box;
 
   flex-wrap: wrap;
+  
 }
 
 /* Hedder  */
@@ -102,6 +103,15 @@ p {
 /* reponsive  */
 
 @media (min-width: 0px) and (max-width: 650px) {
+
+  * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+  flex-wrap: wrap;
+  
+}
   #maindiv {
     width: 100vw;
     height: 70vh;
@@ -139,3 +149,4 @@ h1 {
   font-weight: 700;
 }
 }
+
